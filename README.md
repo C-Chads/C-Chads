@@ -34,3 +34,9 @@ You may fork your own projects into the C-Chads organization which you think are
 # What is the expectation for members?
 
 None. We have a lot of inactive members, you can join just for kicks if that's your thing. The true OGs are the ones who contribute.
+
+# Communication
+
+We used to use discord to communicate, but due to concerns of it being an unethical platform (Child exploitation, primarily) we currently exclusively use Github.
+
+You can email members or create discussions to communicate.
