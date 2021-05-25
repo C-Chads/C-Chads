@@ -17,7 +17,7 @@ Nothing illegal, no non-free content.
 
 As long as it is free and you have the right to give it, you can upload it.
 
-Don't delete repositories.
+Don't ruin someone else's work, make PRs to other peoples' repos, don't directly push.
 
 # What does the group strive to collect?
 
