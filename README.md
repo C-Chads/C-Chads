@@ -30,10 +30,10 @@ https://github.com/C-Chads/C-Programming-Style-Guidelines/
 # Good reference material
 * Most importantly, the [C89](http://port70.net/~nsz/c/c89/c89-draft.html) and [C99](http://port70.net/~nsz/c/c99/n1256.html) standards.
 * [Suckless coding style guidelines](http://suckless.org/coding_style/)
-* [C++/C Reference](cplusplus.com)
+* [C++/C Reference](https://cplusplus.com)
 * sometimes `man X`
-* https://www.w3schools.com/
-* DuckDuckGo
+* [W3Schools](https://www.w3schools.com/)
+* [DuckDuckGo](https://www.duckduckgo.com)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 * [SDL 1.2 reference](https://www.libsdl.org/release/SDL-1.2.15/docs/html/reference.html)
 * [SDL2 reference](http://wiki.libsdl.org/FrontPage)
@@ -55,7 +55,7 @@ https://github.com/C-Chads/C-Programming-Style-Guidelines/
   * reason: unfriendly, unhelpful, pompous teenagers and senile ego-mongers.
 * Discord
   * reason: Child exploitation, political censorship, highly abusive, teenagers
-* [The most toxic website in all of FOSS](Harmful.cat-v.org)
+* [The most toxic website in all of FOSS](http://Harmful.cat-v.org)
   * reason: defamation, false and outdated information
 * Suckless community
   * reason: defamation, false and outdated information
