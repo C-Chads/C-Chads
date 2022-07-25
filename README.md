@@ -7,7 +7,7 @@ This group serves to collect repositories of code which are "interesting" or
 
 All code submitted must be free software.
 
-if the code is not your own, it must contain due attribution.
+if the code is not your own, it must contain any required attribution.
 
 If you would like to join the C-Chads, submit an issue on this repository.
 
@@ -21,7 +21,9 @@ Don't ruin someone else's work, make PRs to other peoples' repos, don't directly
 
 # What does the group strive to collect?
 
-C code, mostly. Good, quality C... but any language may be submitted.
+Free software written in any/all languages, especially that which is useful or interesting.
+
+Public domain code is a priority.
 
 # Style guidelines?
 
@@ -66,9 +68,7 @@ https://github.com/C-Chads/C-Programming-Style-Guidelines/
 
 Preservation, show of interest. I (The author of this document and the founder, DMHSW) fork projects I think are useful or interesting into the C-Chads organization, as a sign of respect and interest.
 
-I also fork projects of my own into the C-Chads organization which I think are useful or mature enough to be interesting.
-
-You may fork your own projects into the C-Chads organization which you think are mature and deserve to be shared.
+Fork your own projects into the group if you like!
 
 # What is the expectation for members?
 
